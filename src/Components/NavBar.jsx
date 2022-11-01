@@ -5,10 +5,10 @@ function NavBar() {
     <div className="Navbar">
       <nav>
         <div className="header">
-          <h1>Steve </h1>
+          <h1>Steve Here</h1>
         </div>
         <div id="openSettings">
-        
+
 
         </div>
       </nav>
